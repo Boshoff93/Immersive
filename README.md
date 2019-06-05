@@ -1,2 +1,2 @@
 # Immersive
-AR application that consumes multiple API's to display user metadata from various sources
+AR application that will consume external APIs to display user metadata from various sources
